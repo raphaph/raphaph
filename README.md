@@ -1,11 +1,22 @@
-### Hi there 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Raphael Barros</h1>
 
-- 🔭 I’m currently working on Eleflow BigData
-- 🌱 I’m currently learning Node EJS and React
-- 👯 I’m looking to collaborate on Data Science
-- 🤔 I’m looking for help with Programming
-- 💬 Ask me about Data, Data Analyze, Data Science, Python, SQL, etc.
-- 📫 How to reach me: rapha.wb@hotmail.com
-- 😄 Pronouns: He They
-- ⚡ Fun fact: The biggest game breaker
+- 🔥 Data Scientist | Data Analyst | Programmer
 
+- 🔭 I’m currently working at [EleFlow](https://eleflow.com.br/pt/)
+
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Python, Databricks, Spark**
+
+- ⚡ Fun fact **The biggest game breaker**
+
+## Contact
+
+<p align="left" style="background:yellow">
+
+<a href="https://www.linkedin.com/in/raphael-william-de-barros-789327137/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-raphaelbarros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/raphawb/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-raphawb-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
+</p>
