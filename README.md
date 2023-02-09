@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [EleFlow](https://eleflow.com.br/pt/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Python, Databricks, Spark**
+- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, SQL, Python, Databricks, Spark**
 
 - ⚡ Fun fact **The biggest game breaker**
 
