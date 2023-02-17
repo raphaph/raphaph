@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Raphael Barros</h1>
 
-- 🔥 Data Scientist | Data Analyst | Programmer
+- 🔥 Data Scientist | Data Analyst | Developer
 
 - 🔭 I’m currently working at [EleFlow](https://eleflow.com.br/pt/)
 
