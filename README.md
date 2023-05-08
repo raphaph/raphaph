@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [EleFlow](https://eleflow.com.br/pt/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, SQL, Python, Databricks, Spark**
+- 💬 Ask me about **Develop, Application React, Machine Learning, Data Analyze, Data Science**
 
 - ⚡ Fun fact **The biggest game breaker**
 
