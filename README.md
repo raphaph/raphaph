@@ -3,7 +3,7 @@
 
 - 🔥 Data Scientist | Data Analyst | Developer
 
-- 🔭 I’m currently working at [EleFlow](https://eleflow.com.br/pt/)
+- 🔭 I’m currently working at [Leega](https://leega.com.br/)
 
 - 💬 Ask me about **Develop, Application React, Machine Learning, Data Analyze, Data Science**
 
