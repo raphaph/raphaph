@@ -1,11 +1,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Raphael Barros</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaph&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Data Scientist | Data Analyst | Developer
+- 🔥 Data Developer | Science | Engineer | Analysis 🎲
 
 - 🔭 I’m currently working at [Leega](https://leega.com.br/)
 
-- 💬 Ask me about **Develop, Application React, Machine Learning, Data Analyze, Data Science**
+- 💬 Lets talk about **Data Science, Machine Learning, Data Analysis, Data Engineer**
 
 - ⚡ Fun fact **The biggest game breaker**
 
