@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Raphael Barros</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaph&color=blue" alt="Profile views" /> </p>
 
-<strong> Data Engineer Senior at [DB1 Group](https://db1group.com/)</strong> 
+<strong> Data Engineer Senior at [DB1 Group](https://db1group.com/), [DB1 Global Software](https://www.db1.com.br/)</strong> 
 
 - 🔥 Data Developer | Science | Engineer 🎲
 
