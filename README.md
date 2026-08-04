@@ -1,12 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Raphael Barros</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaph&color=blue" alt="Profile views" /> </p>
 
-<strong> Data Engineer Senior at [DB1 Group](https://db1group.com/), [DB1 Global Software](https://www.db1.com.br/)</strong> 
+<strong> AI Software Developer & Data Specialist at [Ifood Brasil](https://ifood.com.br/)</strong> 
 
-- 🔥 Data Developer | Science | Engineer 🎲
-
-- 💬 Lets talk about **Data Science, Machine Learning, Data Analysis, Data Engineer**
-
+- 🔥 Software | AI | Science | Engineer | Data
 - ⚡ Fun fact **Big fan of Souls Like.**
 
 ## Contact
